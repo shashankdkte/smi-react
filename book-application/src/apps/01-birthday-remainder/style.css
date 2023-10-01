@@ -1,0 +1,38 @@
+body{
+  background-color: black;
+}
+
+.birthday-container{
+  background-color: #efefef;
+  width: 30%;
+  margin: 5rem auto;
+  padding: 1rem 2rem;
+  border-radius: 4px;
+  text-align: center;
+}
+.birthday-container ul {
+  list-style: none;
+  text-align: left;
+}
+
+.person{
+  display: flex;
+  margin-bottom: 2rem;
+  gap: 1rem;
+  align-items: center;
+}
+.person--img {
+  
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+button{
+  width: 50%;
+  padding: 1rem 2rem;
+  border-radius: 4px;
+  font-family: sans-serif;
+  background-color: #111;
+  color:#efefef
+}
