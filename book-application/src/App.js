@@ -1,10 +1,9 @@
-import UseEffectBasics from './tutorial/02-useEffect/04-useeffect-cleanup';
-import FetchGithub from './tutorial/02-useEffect/05-fetchUsers';
+import MultipleReturns from './tutorial/02-useEffect/06-multiple-return';
 
 function App() {
   return (
     <div>
-    <FetchGithub />
+    <MultipleReturns />
     </div>
   );
 }
