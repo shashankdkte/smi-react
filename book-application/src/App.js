@@ -1,9 +1,9 @@
-import ErrorExample from './tutorial/01-useState/1-use-state';
+import UseStateObject from './tutorial/01-useState/3-use-state-object';
 
 function App() {
   return (
     <div>
-      <ErrorExample />
+     <UseStateObject />
     </div>
   );
 }
