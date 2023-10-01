@@ -1,10 +1,9 @@
-import BirthdayContainer from './apps/01-birthday-remainder/BirthdayContainer';
-import UseStateCounter from './tutorial/01-useState/4-use-state-counter';
+import UseEffectBasics from './tutorial/02-useEffect/04-useeffect-cleanup';
 
 function App() {
   return (
     <div>
-     <BirthdayContainer />
+    <UseEffectBasics />
     </div>
   );
 }
